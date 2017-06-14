@@ -25,7 +25,7 @@ public class MainActivity extends BaseActivity implements UserView {
 
     @Override
     protected void initView() {
-        //git测试 方法嘎
+        //git测试 方法嘎 分发给还是功夫还是
     }
 
     @Override
