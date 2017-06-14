@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="qrcode">
+        <attr name="qrcode_width" format="string" />
+        <attr name="qrcode_height" format="string" />
+    </declare-styleable>
+
+</resources>
